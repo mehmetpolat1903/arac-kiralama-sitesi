@@ -14,4 +14,4 @@ AnaMenü.py: Uygulamanın ana menü dosyasıdır. Bu dosya çalıştırıldığ�
 Müşteriler.py: Müşterilere ait verilerin ve işlemlerin yönetildiği dosyadır.
 Araçlar.py: Araçlara ait verilerin ve işlemlerin yönetildiği dosyadır.
 
-DİPNOT:dosya isimlerini (Dosya isimleri üsste yazılanlar gibidir.) kontrol edip öyle çalıştırmanız tavsiye ediliyor.
+DİPNOT:Dosya isimlerini (Dosya isimleri üsste yazılanlar gibidir.) kontrol edip öyle çalıştırmanız tavsiye ediliyor.
