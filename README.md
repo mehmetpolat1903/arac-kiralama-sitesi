@@ -10,6 +10,8 @@ Projeyi PyCharm'da açın.
 anamenü.py dosyasını bulun ve açın.
 Sağ tıklayıp "Run 'anamenü'" seçeneğini tıklayın.
 Dosya Açıklamaları
-anamenü.py: Uygulamanın ana menü dosyasıdır. Bu dosya çalıştırıldığında uygulama başlatılır ve diğer modüllere erişim sağlar.
-müşteriler.py: Müşterilere ait verilerin ve işlemlerin yönetildiği dosyadır.
-araçlar.py: Araçlara ait verilerin ve işlemlerin yönetildiği dosyadır.
+AnaMenü.py: Uygulamanın ana menü dosyasıdır. Bu dosya çalıştırıldığında uygulama başlatılır ve diğer modüllere erişim sağlar.
+Müşteriler.py: Müşterilere ait verilerin ve işlemlerin yönetildiği dosyadır.
+Araçlar.py: Araçlara ait verilerin ve işlemlerin yönetildiği dosyadır.
+
+DİPNOT:dosya isimlerini (Dosya isimleri üsste yazılanlar gibidir.) kontrol edip öyle çalıştırmanız tavsiye ediliyor.
